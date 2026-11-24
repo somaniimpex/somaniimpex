@@ -913,7 +913,7 @@ i {
       margin-bottom: 0;
       transition: .4s; }*/
   #testimonialSection .testimonial-box:hover {
-    background: #00CCFF; }
+    background: #fff; }
     #testimonialSection .testimonial-box:hover .txt span {
       color: #333; }
     #testimonialSection .testimonial-box:hover .quote .img02 {
